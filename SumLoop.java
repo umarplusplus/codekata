@@ -2,7 +2,7 @@
  */
 import java.util.Scanner;
 
-class SumOfn
+class SumLoop
 {
 	public static void main(String args[])
 	{
